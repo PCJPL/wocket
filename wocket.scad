@@ -1,14 +1,14 @@
-use <nose_cone.scad>;
-use <nose_cone_endcap.scad>;
-use <centering_ring.scad>;
-use <engine_block.scad>;
-use <fin.scad>;
-use <tubes/motor_mount_tube.scad>;
-use <tubes/coupler_tube.scad>;
-use <tubes/tube.scad>;
-use <misc.scad>;
+use <wocket/nose_cone.scad>;
+use <wocket/nose_cone_endcap.scad>;
+use <wocket/centering_ring.scad>;
+use <wocket/engine_block.scad>;
+use <wocket/fin.scad>;
+use <wocket/tubes/motor_mount_tube.scad>;
+use <wocket/tubes/coupler_tube.scad>;
+use <wocket/tubes/tube.scad>;
+use <wocket/misc.scad>;
 
-use <ejection_charge_baffle.scad>;
+use <wocket/ejection_charge_baffle.scad>;
 
 // Resolution of OpenSCAD rendering. Increase to 100 or greater for final export.
 $fn = 100;

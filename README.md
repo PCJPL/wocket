@@ -1,4 +1,4 @@
 # wocket
-OpenSCAD toolchain for building 3D-printed rockets.
+OpenSCAD library for building 3D-printed rockets.
 
-![](wocket.png "Wocket")
+![](screenshot.png "Wocket")
